@@ -1,1 +1,11 @@
-# <a href="SSWW.html">START</a>
+<!doctype html>
+<html>
+<head>
+  <title>Quiz HTML</title>
+  <h1>Quiz HTML</h1>
+</head>
+<body>
+  <h3><a href="https://iamssw78.github.io/SSWW/Q1.HTML">Start Quiz</a></h3>
+  <h3><a href="https://www.w3.org/">I want to continue learning about web</a></h3>
+</body>
+</html>
